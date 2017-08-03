@@ -18,7 +18,7 @@
 
 #Example2
 
- Generate Traffic for wireless throughput, R9000
+ Generate Traffic for wireless throughput,
 
  Data:
  wireless_channe_result1
@@ -32,7 +32,7 @@
 
 #Example3
 
- Generate Traffic for wireless throughput, R7500v2
+ Generate Traffic for wireless throughput, 
 
  Data:
  wireless_channe_result

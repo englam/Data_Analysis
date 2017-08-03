@@ -2,7 +2,7 @@ import pandas as pd
 from pandas import ExcelWriter
 
 '''
-   pip install openpyxl
+   pip install openpyxl,
 '''
 
 Result = pd.read_csv('wireless_channel_result1', names=['WiFi Throughput', 'WiFi Channel', 'GUI Channel', 'GUI Mode', 'WiFi Band', 'GUI_Security', 'WiFi Security', 'Time'])
