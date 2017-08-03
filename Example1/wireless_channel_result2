@@ -1,0 +1,85 @@
+Upstream,2.41 Mbits/sec, 1,1,Up to 347 Mbps,2.4G,no,No_Security,201725070559
+Downstream,2.10 Mbits/sec, 1,1,Up to 347 Mbps,2.4G,no,No_Security,201725070559
+Bidirection,4.30 Mbits/sec, 1,1,Up to 347 Mbps,2.4G,no,No_Security,201725070559
+Upstream,4.72 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,no,No_Security,201725070603
+Downstream,4.61 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,no,No_Security,201725070603
+Bidirection,4.26 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,no,No_Security,201725070603
+Upstream,4.30 Mbits/sec, 3,3,Up to 347 Mbps,2.4G,no,No_Security,201725070608
+Downstream,4.30 Mbits/sec, 3,3,Up to 347 Mbps,2.4G,no,No_Security,201725070608
+Bidirection,4.09 Mbits/sec, 3,3,Up to 347 Mbps,2.4G,no,No_Security,201725070608
+Upstream,4.72 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,no,No_Security,201725070613
+Downstream,4.61 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,no,No_Security,201725070613
+Bidirection,4.09 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,no,No_Security,201725070613
+Upstream,4.82 Mbits/sec, 5,5,Up to 347 Mbps,2.4G,no,No_Security,201725070618
+Downstream,4.82 Mbits/sec, 5,5,Up to 347 Mbps,2.4G,no,No_Security,201725070618
+Bidirection,4.33 Mbits/sec, 5,5,Up to 347 Mbps,2.4G,no,No_Security,201725070618
+Upstream,4.72 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,no,No_Security,201725070623
+Downstream,4.51 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,no,No_Security,201725070623
+Bidirection,4.33 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,no,No_Security,201725070623
+Upstream,4.61 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,no,No_Security,201725070628
+Downstream,4.61 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,no,No_Security,201725070628
+Bidirection,4.23 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,no,No_Security,201725070628
+Upstream,3.98 Mbits/sec, 8,8,Up to 347 Mbps,2.4G,no,No_Security,201725070633
+Downstream,3.98 Mbits/sec, 8,8,Up to 347 Mbps,2.4G,no,No_Security,201725070633
+Bidirection,4.14 Mbits/sec, 8,8,Up to 347 Mbps,2.4G,no,No_Security,201725070633
+Upstream,4.09 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,no,No_Security,201725070638
+Downstream,3.88 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,no,No_Security,201725070638
+Bidirection,3.57 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,no,No_Security,201725070638
+Upstream,4.09 Mbits/sec, 10,10,Up to 347 Mbps,2.4G,no,No_Security,201725070642
+Downstream,4.82 Mbits/sec, 10,10,Up to 347 Mbps,2.4G,no,No_Security,201725070642
+Bidirection,3.66 Mbits/sec, 10,10,Up to 347 Mbps,2.4G,no,No_Security,201725070642
+Upstream,4.61 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,no,No_Security,201725070647
+Downstream,4.51 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,no,No_Security,201725070647
+Bidirection,4.06 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,no,No_Security,201725070647
+Upstream,no value, no channel,12,Up to 347 Mbps,2.4G,no,No_Security,201725070649
+Downstream,no value, no channel,12,Up to 347 Mbps,2.4G,no,No_Security,201725070649
+Bidirection,no value, no channel,12,Up to 347 Mbps,2.4G,no,No_Security,201725070649
+Upstream,no value, no channel,13,Up to 347 Mbps,2.4G,no,No_Security,201725070651
+Downstream,no value, no channel,13,Up to 347 Mbps,2.4G,no,No_Security,201725070651
+Bidirection,no value, no channel,13,Up to 347 Mbps,2.4G,no,No_Security,201725070651
+Upstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,no,No_Security,201725070653
+Downstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,no,No_Security,201725070653
+Bidirection,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,no,No_Security,201725070653
+Upstream,4.72 Mbits/sec, 1,1,Up to 800 Mbps,2.4G,no,No_Security,201725070658
+Downstream,4.72 Mbits/sec, 1,1,Up to 800 Mbps,2.4G,no,No_Security,201725070658
+Bidirection,4.40 Mbits/sec, 1,1,Up to 800 Mbps,2.4G,no,No_Security,201725070658
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070700
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070700
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070700
+Upstream,4.72 Mbits/sec, 3,1,Up to 800 Mbps,2.4G,no,No_Security,201725070705
+Downstream,4.82 Mbits/sec, 3,1,Up to 800 Mbps,2.4G,no,No_Security,201725070705
+Bidirection,4.43 Mbits/sec, 3,1,Up to 800 Mbps,2.4G,no,No_Security,201725070705
+Upstream,4.51 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,no,No_Security,201725070710
+Downstream,4.51 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,no,No_Security,201725070710
+Bidirection,4.24 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,no,No_Security,201725070710
+Upstream,4.72 Mbits/sec, 5,1,Up to 800 Mbps,2.4G,no,No_Security,201725070715
+Downstream,4.82 Mbits/sec, 5,1,Up to 800 Mbps,2.4G,no,No_Security,201725070715
+Bidirection,4.49 Mbits/sec, 5,1,Up to 800 Mbps,2.4G,no,No_Security,201725070715
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070716
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070716
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070716
+Upstream,4.61 Mbits/sec, 7,1,Up to 800 Mbps,2.4G,no,No_Security,201725070721
+Downstream,4.82 Mbits/sec, 7,1,Up to 800 Mbps,2.4G,no,No_Security,201725070721
+Bidirection,4.44 Mbits/sec, 7,1,Up to 800 Mbps,2.4G,no,No_Security,201725070721
+Upstream,4.82 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,no,No_Security,201725070726
+Downstream,4.82 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,no,No_Security,201725070726
+Bidirection,4.37 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,no,No_Security,201725070726
+Upstream,4.82 Mbits/sec, 9,1,Up to 800 Mbps,2.4G,no,No_Security,201725070731
+Downstream,4.82 Mbits/sec, 9,1,Up to 800 Mbps,2.4G,no,No_Security,201725070731
+Bidirection,4.51 Mbits/sec, 9,1,Up to 800 Mbps,2.4G,no,No_Security,201725070731
+Upstream,4.93 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,no,No_Security,201725070736
+Downstream,4.82 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,no,No_Security,201725070736
+Bidirection,4.61 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,no,No_Security,201725070736
+Upstream,4.93 Mbits/sec, 11,1,Up to 800 Mbps,2.4G,no,No_Security,201725070741
+Downstream,4.82 Mbits/sec, 11,1,Up to 800 Mbps,2.4G,no,No_Security,201725070741
+Bidirection,4.40 Mbits/sec, 11,1,Up to 800 Mbps,2.4G,no,No_Security,201725070741
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070743
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070743
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070743
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070745
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070745
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,no,No_Security,201725070745
+Upstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,no,No_Security,201725070747
+Downstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,no,No_Security,201725070747
+Bidirection,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,no,No_Security,201725070747
+

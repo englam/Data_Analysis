@@ -1,0 +1,684 @@
+Upstream,22.1 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081409
+Downstream,22.0 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081409
+Bidirection,10.6 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081409
+Upstream,16.6 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081414
+Downstream,17.9 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081414
+Bidirection,8.32 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081414
+Upstream,19.0 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081418
+Downstream,19.3 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081418
+Bidirection,9.32 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081418
+Upstream,19.1 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081423
+Downstream,19.6 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081423
+Bidirection,9.46 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081423
+Upstream,no value, no channel,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081425
+Downstream,no value, no channel,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081425
+Bidirection,no value, no channel,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081425
+Upstream,20.0 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081429
+Downstream,20.0 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081429
+Bidirection,10.1 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081429
+Upstream,20.2 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081434
+Downstream,20.3 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081434
+Bidirection,10.3 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081434
+Upstream,20.3 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081439
+Downstream,20.2 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081439
+Bidirection,10.1 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081439
+Upstream,20.3 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081443
+Downstream,20.2 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081443
+Bidirection,10.3 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081443
+Upstream,no value, no channel,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081445
+Downstream,no value, no channel,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081445
+Bidirection,no value, no channel,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081445
+Upstream,19.5 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081450
+Downstream,19.4 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081450
+Bidirection,9.81 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081450
+Upstream,20.3 Mbits/sec, 12,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081454
+Downstream,20.3 Mbits/sec, 12,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081454
+Bidirection,10.1 Mbits/sec, 12,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081454
+Upstream,20.1 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081459
+Downstream,20.2 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081459
+Bidirection,10.1 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081459
+Upstream,20.3 Mbits/sec, 8,Auto ( 8
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081504
+Downstream,20.2 Mbits/sec, 8,Auto ( 8
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081504
+Bidirection,9.62 Mbits/sec, 8,Auto ( 8
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,no,No_Security,201702081504
+Upstream,92.6 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081508
+Downstream,86.4 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081508
+Bidirection,55.3 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081508
+Upstream,101 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081513
+Downstream,92.0 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081513
+Bidirection,51.4 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081513
+Upstream,93.5 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081517
+Downstream,86.0 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081517
+Bidirection,52.9 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081517
+Upstream,96.3 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081522
+Downstream,92.3 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081522
+Bidirection,58.1 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081522
+Upstream,no value, no channel,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081524
+Downstream,no value, no channel,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081524
+Bidirection,no value, no channel,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081524
+Upstream,104 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081528
+Downstream,99.3 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081528
+Bidirection,59.3 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081528
+Upstream,95.7 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081533
+Downstream,89.0 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081533
+Bidirection,53.8 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081533
+Upstream,108 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081538
+Downstream,110 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081538
+Bidirection,67.1 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081538
+Upstream,98.5 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081542
+Downstream,90.4 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081542
+Bidirection,61.7 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081542
+Upstream,96.8 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081547
+Downstream,97.7 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081547
+Bidirection,61.9 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081547
+Upstream,102 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081551
+Downstream,99.7 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081551
+Bidirection,61.3 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081551
+Upstream,101 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081556
+Downstream,105 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081556
+Bidirection,63.2 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081556
+Upstream,106 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081601
+Downstream,106 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081601
+Bidirection,64.3 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081601
+Upstream,101 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081605
+Downstream,100 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081605
+Bidirection,58.9 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,no,No_Security,201702081605
+Upstream,99.3 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081610
+Downstream,96.0 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081610
+Bidirection,55.2 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081610
+Upstream,97.6 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081614
+Downstream,96.5 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081614
+Bidirection,51.9 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081614
+Upstream,91.2 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081619
+Downstream,95.0 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081619
+Bidirection,55.6 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081619
+Upstream,83.3 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081624
+Downstream,90.8 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081624
+Bidirection,54.4 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081624
+Upstream,99.0 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081628
+Downstream,96.9 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081628
+Bidirection,56.3 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081628
+Upstream,101 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081633
+Downstream,90.8 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081633
+Bidirection,59.5 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081633
+Upstream,93.1 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081637
+Downstream,91.3 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081637
+Bidirection,60.3 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081637
+Upstream,103 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081642
+Downstream,102 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081642
+Bidirection,69.0 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081642
+Upstream,102 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081647
+Downstream,99.0 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081647
+Bidirection,59.4 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081647
+Upstream,101 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081651
+Downstream,101 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081651
+Bidirection,61.8 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081651
+Upstream,111 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081656
+Downstream,116 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081656
+Bidirection,62.6 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081656
+Upstream,54.1 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081701
+Downstream,10.1 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081701
+Bidirection,40.8 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081701
+Upstream,71.7 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081705
+Downstream,8.28 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081705
+Bidirection,42.5 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081705
+Upstream,37.4 Mbits/sec, 6,Auto ( 6
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081710
+Downstream,37.7 Mbits/sec, 6,Auto ( 6
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081710
+Bidirection,13.2 Mbits/sec, 6,Auto ( 6
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,no,No_Security,201702081710
+Upstream,102 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081714
+Downstream,109 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081714
+Bidirection,35.7 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081714
+Upstream,106 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081719
+Downstream,105 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081719
+Bidirection,41.9 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081719
+Upstream,104 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081724
+Downstream,99.1 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081724
+Bidirection,43.1 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081724
+Upstream,111 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081728
+Downstream,113 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081728
+Bidirection,43.3 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,no,No_Security,201702081728
+Upstream,132 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081733
+Downstream,139 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081733
+Bidirection,77.4 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081733
+Upstream,139 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081737
+Downstream,132 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081737
+Bidirection,79.0 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081737
+Upstream,136 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081742
+Downstream,134 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081742
+Bidirection,92.6 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081742
+Upstream,142 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081747
+Downstream,140 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081747
+Bidirection,93.3 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,no,No_Security,201702081747
+Upstream,133 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081751
+Downstream,139 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081751
+Bidirection,79.0 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081751
+Upstream,140 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081756
+Downstream,131 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081756
+Bidirection,78.8 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081756
+Upstream,131 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081801
+Downstream,123 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081801
+Bidirection,76.0 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081801
+Upstream,128 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081805
+Downstream,129 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081805
+Bidirection,78.8 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,no,No_Security,201702081805
+Upstream,19.7 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081810
+Downstream,20.1 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081810
+Bidirection,9.83 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081810
+Upstream,19.5 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081814
+Downstream,19.8 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081814
+Bidirection,9.96 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081814
+Upstream,19.5 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081819
+Downstream,19.6 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081819
+Bidirection,9.54 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081819
+Upstream,19.3 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081824
+Downstream,19.4 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081824
+Bidirection,9.56 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081824
+Upstream,19.5 Mbits/sec, 5,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081828
+Downstream,19.9 Mbits/sec, 5,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081828
+Bidirection,9.85 Mbits/sec, 5,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081828
+Upstream,19.8 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081833
+Downstream,19.9 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081833
+Bidirection,9.02 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081833
+Upstream,20.2 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081838
+Downstream,19.9 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081838
+Bidirection,9.78 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081838
+Upstream,20.1 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081842
+Downstream,20.3 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081842
+Bidirection,10.2 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081842
+Upstream,20.1 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081847
+Downstream,20.0 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081847
+Bidirection,10.0 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081847
+Upstream,20.1 Mbits/sec, 10,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081851
+Downstream,20.1 Mbits/sec, 10,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081851
+Bidirection,9.96 Mbits/sec, 10,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081851
+Upstream,20.0 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081856
+Downstream,20.1 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081856
+Bidirection,10.1 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081856
+Upstream,19.9 Mbits/sec, 12,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081901
+Downstream,19.9 Mbits/sec, 12,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081901
+Bidirection,10.0 Mbits/sec, 12,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081901
+Upstream,20.1 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081905
+Downstream,20.0 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081905
+Bidirection,10.3 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081905
+Upstream,19.5 Mbits/sec, 6,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081910
+Downstream,19.4 Mbits/sec, 6,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081910
+Bidirection,9.54 Mbits/sec, 6,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,wpa2aes,WPA2_AES,201702081910
+Upstream,87.3 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081915
+Downstream,88.8 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081915
+Bidirection,49.0 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081915
+Upstream,86.1 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081919
+Downstream,92.3 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081919
+Bidirection,56.0 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081919
+Upstream,89.8 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081924
+Downstream,94.1 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081924
+Bidirection,57.9 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081924
+Upstream,97.5 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081928
+Downstream,102 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081928
+Bidirection,58.4 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081928
+Upstream,94.8 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081933
+Downstream,98.7 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081933
+Bidirection,58.1 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081933
+Upstream,100 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081938
+Downstream,97.6 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081938
+Bidirection,57.8 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081938
+Upstream,92.9 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081942
+Downstream,95.8 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081942
+Bidirection,55.8 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081942
+Upstream,106 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081947
+Downstream,104 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081947
+Bidirection,67.0 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081947
+Upstream,98.6 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081951
+Downstream,106 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081951
+Bidirection,61.1 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081951
+Upstream,102 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081956
+Downstream,97.5 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081956
+Bidirection,61.6 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702081956
+Upstream,104 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082001
+Downstream,96.7 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082001
+Bidirection,60.2 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082001
+Upstream,96.9 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082005
+Downstream,91.9 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082005
+Bidirection,29.8 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082005
+Upstream,107 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082010
+Downstream,91.2 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082010
+Bidirection,61.7 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082010
+Upstream,30.1 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082014
+Downstream,31.5 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082014
+Bidirection,10.4 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,wpa2aes,WPA2_AES,201702082014
+Upstream,102 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082019
+Downstream,103 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082019
+Bidirection,57.8 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082019
+Upstream,98.3 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082024
+Downstream,98.9 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082024
+Bidirection,57.6 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082024
+Upstream,94.3 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082028
+Downstream,97.6 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082028
+Bidirection,59.0 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082028
+Upstream,98.3 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082033
+Downstream,99.1 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082033
+Bidirection,56.1 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082033
+Upstream,99.8 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082037
+Downstream,93.6 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082037
+Bidirection,53.8 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082037
+Upstream,92.4 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082042
+Downstream,95.6 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082042
+Bidirection,57.6 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082042
+Upstream,103 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082047
+Downstream,109 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082047
+Bidirection,63.6 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082047
+Upstream,104 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082051
+Downstream,109 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082051
+Bidirection,65.0 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082051
+Upstream,97.8 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082056
+Downstream,99.0 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082056
+Bidirection,63.2 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082056
+Upstream,97.8 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082101
+Downstream,94.6 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082101
+Bidirection,57.3 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082101
+Upstream,81.8 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082105
+Downstream,63.9 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082105
+Bidirection,57.9 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082105
+Upstream,7.97 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082110
+Downstream,26.0 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082110
+Bidirection,22.7 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082110
+Upstream,29.5 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082114
+Downstream,11.4 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082114
+Bidirection,65.4 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082114
+Upstream,79.3 Mbits/sec, 6,Auto ( 6(p) + 10(s)
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082119
+Downstream,81.2 Mbits/sec, 6,Auto ( 6(p) + 10(s)
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082119
+Bidirection,57.8 Mbits/sec, 6,Auto ( 6(p) + 10(s)
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,wpa2aes,WPA2_AES,201702082119
+Upstream,98.5 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082124
+Downstream,97.8 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082124
+Bidirection,37.0 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082124
+Upstream,102 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082128
+Downstream,93.2 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082128
+Bidirection,41.5 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082128
+Upstream,95.4 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082133
+Downstream,106 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082133
+Bidirection,42.2 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082133
+Upstream,102 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082138
+Downstream,103 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082138
+Bidirection,42.8 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,wpa2aes,WPA2_AES,201702082138
+Upstream,132 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082142
+Downstream,131 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082142
+Bidirection,75.9 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082142
+Upstream,132 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082147
+Downstream,134 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082147
+Bidirection,77.9 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082147
+Upstream,133 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082151
+Downstream,142 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082151
+Bidirection,93.6 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082151
+Upstream,no value, no channel,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082153
+Downstream,no value, no channel,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082153
+Bidirection,no value, no channel,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,wpa2aes,WPA2_AES,201702082153
+Upstream,no value, no channel,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082155
+Downstream,no value, no channel,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082155
+Bidirection,no value, no channel,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082155
+Upstream,no value, no channel,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082157
+Downstream,no value, no channel,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082157
+Bidirection,no value, no channel,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082157
+Upstream,no value, no channel,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082158
+Downstream,no value, no channel,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082158
+Bidirection,no value, no channel,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082158
+Upstream,no value, no channel,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082200
+Downstream,no value, no channel,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082200
+Bidirection,no value, no channel,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,wpa2aes,WPA2_AES,201702082200
+Upstream,no value, no channel,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082202
+Downstream,no value, no channel,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082202
+Bidirection,no value, no channel,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082202
+Upstream,no value, no channel,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082204
+Downstream,no value, no channel,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082204
+Bidirection,no value, no channel,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082204
+Upstream,no value, no channel,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082205
+Downstream,no value, no channel,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082205
+Bidirection,no value, no channel,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082205
+Upstream,no value, no channel,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082207
+Downstream,no value, no channel,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082207
+Bidirection,no value, no channel,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082207
+Upstream,no value, no channel,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082209
+Downstream,no value, no channel,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082209
+Bidirection,no value, no channel,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082209
+Upstream,no value, no channel,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082211
+Downstream,no value, no channel,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082211
+Bidirection,no value, no channel,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082211
+Upstream,no value, no channel,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082212
+Downstream,no value, no channel,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082212
+Bidirection,no value, no channel,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082212
+Upstream,no value, no channel,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082214
+Downstream,no value, no channel,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082214
+Bidirection,no value, no channel,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082214
+Upstream,no value, no channel,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082216
+Downstream,no value, no channel,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082216
+Bidirection,no value, no channel,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082216
+Upstream,no value, no channel,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082218
+Downstream,no value, no channel,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082218
+Bidirection,no value, no channel,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082218
+Upstream,no value, no channel,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082219
+Downstream,no value, no channel,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082219
+Bidirection,no value, no channel,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082219
+Upstream,no value, no channel,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082221
+Downstream,no value, no channel,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082221
+Bidirection,no value, no channel,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082221
+Upstream,no value, no channel,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082223
+Downstream,no value, no channel,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082223
+Bidirection,no value, no channel,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082223
+Upstream,no value, no channel,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082224
+Downstream,no value, no channel,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082224
+Bidirection,no value, no channel,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA2_AES,201702082224
+Upstream,no value, no channel,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082226
+Downstream,no value, no channel,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082226
+Bidirection,no value, no channel,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082226
+Upstream,no value, no channel,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082228
+Downstream,no value, no channel,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082228
+Bidirection,no value, no channel,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082228
+Upstream,no value, no channel,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082230
+Downstream,no value, no channel,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082230
+Bidirection,no value, no channel,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082230
+Upstream,96.7 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082234
+Downstream,97.7 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082234
+Bidirection,57.7 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082234
+Upstream,101 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082239
+Downstream,102 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082239
+Bidirection,58.2 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082239
+Upstream,90.2 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082244
+Downstream,104 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082244
+Bidirection,62.9 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082244
+Upstream,102 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082248
+Downstream,95.1 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082248
+Bidirection,60.8 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082248
+Upstream,98.7 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082253
+Downstream,100 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082253
+Bidirection,37.3 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082253
+Upstream,92.2 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082257
+Downstream,91.4 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082257
+Bidirection,59.8 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082257
+Upstream,95.7 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082302
+Downstream,93.4 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082302
+Bidirection,60.5 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082302
+Upstream,89.1 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082307
+Downstream,80.4 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082307
+Bidirection,54.5 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082307
+Upstream,99.8 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082311
+Downstream,99.3 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082311
+Bidirection,60.6 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082311
+Upstream,94.4 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082316
+Downstream,94.5 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082316
+Bidirection,60.5 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082316
+Upstream,97.4 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082320
+Downstream,99.7 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082320
+Bidirection,55.9 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA2_AES,201702082320
+Upstream,101 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082325
+Downstream,91.9 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082325
+Bidirection,56.9 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082325
+Upstream,97.1 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082330
+Downstream,94.7 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082330
+Bidirection,57.9 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082330
+Upstream,100 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082334
+Downstream,101 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082334
+Bidirection,59.0 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082334
+Upstream,89.9 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082339
+Downstream,88.8 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082339
+Bidirection,55.7 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082339
+Upstream,95.1 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082343
+Downstream,96.9 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082343
+Bidirection,57.7 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082343
+Upstream,101 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082348
+Downstream,93.8 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082348
+Bidirection,63.0 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082348
+Upstream,99.8 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082353
+Downstream,100 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082353
+Bidirection,59.4 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082353
+Upstream,110 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082357
+Downstream,109 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082357
+Bidirection,63.5 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201702082357
+Upstream,62.1 Mbits/sec, 9,5(s)+9(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080002
+Downstream,64.4 Mbits/sec, 9,5(s)+9(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080002
+Bidirection,5.35 Mbits/sec, 9,5(s)+9(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080002
+Upstream,102 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080006
+Downstream,91.9 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080006
+Bidirection,59.0 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080006
+Upstream,27.5 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080011
+Downstream,26.8 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080011
+Bidirection,8.88 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080011
+Upstream,8.91 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080016
+Downstream,50.3 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080016
+Bidirection,8.18 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080016
+Upstream,67.1 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080020
+Downstream,72.6 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080020
+Bidirection,49.4 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080020
+Upstream,105 Mbits/sec, 6,Auto ( 6
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080025
+Downstream,100 Mbits/sec, 6,Auto ( 6
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080025
+Bidirection,59.0 Mbits/sec, 6,Auto ( 6
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA2_AES,201703080025
+Upstream,96.3 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080030
+Downstream,106 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080030
+Bidirection,40.4 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080030
+Upstream,102 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080034
+Downstream,105 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080034
+Bidirection,39.6 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080034
+Upstream,105 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080039
+Downstream,109 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080039
+Bidirection,42.6 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080039
+Upstream,102 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080043
+Downstream,107 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080043
+Bidirection,42.7 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA2_AES,201703080043
+Upstream,135 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080048
+Downstream,128 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080048
+Bidirection,78.1 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080048
+Upstream,133 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080053
+Downstream,129 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080053
+Bidirection,65.9 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080053
+Upstream,140 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080057
+Downstream,142 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080057
+Bidirection,92.7 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080057
+Upstream,137 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080102
+Downstream,136 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080102
+Bidirection,86.4 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA2_AES,201703080102
+Upstream,135 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080107
+Downstream,131 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080107
+Bidirection,77.9 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080107
+Upstream,135 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080111
+Downstream,128 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080111
+Bidirection,65.3 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080111
+Upstream,127 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080116
+Downstream,124 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080116
+Bidirection,74.6 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080116
+Upstream,134 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080120
+Downstream,128 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080120
+Bidirection,76.2 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA2_AES,201703080120
+Upstream,20.0 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080125
+Downstream,19.4 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080125
+Bidirection,9.65 Mbits/sec, 1,1,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080125
+Upstream,18.9 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080130
+Downstream,18.9 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080130
+Bidirection,9.69 Mbits/sec, 2,2,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080130
+Upstream,20.0 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080134
+Downstream,19.8 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080134
+Bidirection,9.70 Mbits/sec, 3,3,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080134
+Upstream,19.4 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080139
+Downstream,19.7 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080139
+Bidirection,9.81 Mbits/sec, 4,4,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080139
+Upstream,19.9 Mbits/sec, 5,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080144
+Downstream,20.0 Mbits/sec, 5,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080144
+Bidirection,10.1 Mbits/sec, 5,5,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080144
+Upstream,19.9 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080148
+Downstream,19.9 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080148
+Bidirection,9.84 Mbits/sec, 6,6,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080148
+Upstream,19.7 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080153
+Downstream,19.9 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080153
+Bidirection,9.86 Mbits/sec, 7,7,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080153
+Upstream,20.2 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080157
+Downstream,20.3 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080157
+Bidirection,10.2 Mbits/sec, 8,8,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080157
+Upstream,20.1 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080202
+Downstream,20.1 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080202
+Bidirection,10.2 Mbits/sec, 9,9,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080202
+Upstream,20.0 Mbits/sec, 10,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080207
+Downstream,19.9 Mbits/sec, 10,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080207
+Bidirection,10.1 Mbits/sec, 10,10,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080207
+Upstream,19.5 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080211
+Downstream,19.3 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080211
+Bidirection,9.42 Mbits/sec, 11,11,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080211
+Upstream,no value, no channel,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080213
+Downstream,no value, no channel,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080213
+Bidirection,no value, no channel,12,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080213
+Upstream,20.1 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080218
+Downstream,20.0 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080218
+Bidirection,10.1 Mbits/sec, 13,13,Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080218
+Upstream,20.0 Mbits/sec, 6,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080222
+Downstream,20.1 Mbits/sec, 6,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080222
+Bidirection,9.87 Mbits/sec, 6,Auto ( 6
+ ),Up to 54 Mbps ,NETGEAR2G,Europe,1,2.4G,mixed,WPA_TKIP,201703080222
+Upstream,19.7 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080227
+Downstream,19.8 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080227
+Bidirection,9.66 Mbits/sec, 1,1,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080227
+Upstream,19.6 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080232
+Downstream,19.7 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080232
+Bidirection,9.54 Mbits/sec, 2,2,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080232
+Upstream,19.5 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080236
+Downstream,1.47 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080236
+Bidirection,9.71 Mbits/sec, 3,3,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080236
+Upstream,19.5 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080241
+Downstream,19.7 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080241
+Bidirection,9.84 Mbits/sec, 4,4,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080241
+Upstream,19.4 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080245
+Downstream,19.4 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080245
+Bidirection,9.75 Mbits/sec, 5,5,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080245
+Upstream,19.5 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080250
+Downstream,19.5 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080250
+Bidirection,9.64 Mbits/sec, 6,6,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080250
+Upstream,19.8 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080255
+Downstream,19.8 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080255
+Bidirection,9.99 Mbits/sec, 7,7,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080255
+Upstream,19.9 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080259
+Downstream,19.9 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080259
+Bidirection,10.0 Mbits/sec, 8,8,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080259
+Upstream,19.4 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080304
+Downstream,19.8 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080304
+Bidirection,10.0 Mbits/sec, 9,9,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080304
+Upstream,19.9 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080309
+Downstream,19.9 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080309
+Bidirection,10.0 Mbits/sec, 10,10,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080309
+Upstream,19.9 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080313
+Downstream,19.9 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080313
+Bidirection,9.73 Mbits/sec, 11,11,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080313
+Upstream,19.8 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080318
+Downstream,19.9 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080318
+Bidirection,10.0 Mbits/sec, 12,12,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080318
+Upstream,19.9 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080322
+Downstream,19.8 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080322
+Bidirection,9.98 Mbits/sec, 13,13,Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080322
+Upstream,19.9 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080327
+Downstream,19.6 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080327
+Bidirection,9.73 Mbits/sec, 6,Auto ( 6
+ ),Up to 289 Mbps ,NETGEAR2G,Europe,2,2.4G,mixed,WPA_TKIP,201703080327
+Upstream,19.3 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080332
+Downstream,19.5 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080332
+Bidirection,9.69 Mbits/sec, 1,1,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080332
+Upstream,19.4 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080336
+Downstream,19.4 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080336
+Bidirection,9.65 Mbits/sec, 2,2,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080336
+Upstream,19.7 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080341
+Downstream,19.7 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080341
+Bidirection,9.72 Mbits/sec, 3,3,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080341
+Upstream,18.4 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080346
+Downstream,18.7 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080346
+Bidirection,9.35 Mbits/sec, 4,4,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080346
+Upstream,19.7 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080350
+Downstream,19.7 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080350
+Bidirection,9.89 Mbits/sec, 5,5,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080350
+Upstream,19.9 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080355
+Downstream,19.7 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080355
+Bidirection,9.83 Mbits/sec, 6,6,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080355
+Upstream,19.7 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080359
+Downstream,19.8 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080359
+Bidirection,9.93 Mbits/sec, 7,7,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080359
+Upstream,19.9 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080404
+Downstream,19.9 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080404
+Bidirection,10.1 Mbits/sec, 8,8,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080404
+Upstream,19.9 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080409
+Downstream,19.9 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080409
+Bidirection,9.99 Mbits/sec, 9,9,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080409
+Upstream,19.6 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080413
+Downstream,19.8 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080413
+Bidirection,9.96 Mbits/sec, 10,10,Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080413
+Upstream,19.9 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080418
+Downstream,19.8 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080418
+Bidirection,9.71 Mbits/sec, 11,7(s)+11(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080418
+Upstream,19.8 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080423
+Downstream,19.5 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080423
+Bidirection,9.65 Mbits/sec, 12,8(s)+12(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080423
+Upstream,19.9 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080427
+Downstream,19.8 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080427
+Bidirection,9.87 Mbits/sec, 13,9(s)+13(p),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080427
+Upstream,19.3 Mbits/sec, 6,Auto ( 6(p) + 10(s)
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080432
+Downstream,19.5 Mbits/sec, 6,Auto ( 6(p) + 10(s)
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080432
+Bidirection,9.51 Mbits/sec, 6,Auto ( 6(p) + 10(s)
+ ),Up to 600 Mbps ,NETGEAR2G,Europe,3,2.4G,mixed,WPA_TKIP,201703080432
+Upstream,22.1 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080436
+Downstream,21.7 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080436
+Bidirection,10.9 Mbits/sec, 36,36,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080436
+Upstream,22.3 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080441
+Downstream,22.3 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080441
+Bidirection,10.9 Mbits/sec, 40,40,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080441
+Upstream,22.5 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080446
+Downstream,22.4 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080446
+Bidirection,11.0 Mbits/sec, 44,44,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080446
+Upstream,22.0 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080450
+Downstream,21.6 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080450
+Bidirection,11.0 Mbits/sec, 48,48,Up to 347 Mbps ,NETGEAR5G,Europe,7,5G,mixed,WPA_TKIP,201703080450
+Upstream,21.6 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080455
+Downstream,21.5 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080455
+Bidirection,10.1 Mbits/sec, 36,36(p)+40(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080455
+Upstream,22.4 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080500
+Downstream,22.2 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080500
+Bidirection,9.93 Mbits/sec, 40,36(s)+40(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080500
+Upstream,21.4 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080504
+Downstream,21.5 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080504
+Bidirection,10.1 Mbits/sec, 44,44(p)+48(s),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080504
+Upstream,22.0 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080509
+Downstream,21.9 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080509
+Bidirection,10.3 Mbits/sec, 48,44(s)+48(p),Up to 800 Mbps ,NETGEAR5G,Europe,8,5G,mixed,WPA_TKIP,201703080509
+Upstream,22.2 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080513
+Downstream,22.3 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080513
+Bidirection,10.1 Mbits/sec, 36,36(p)+40+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080513
+Upstream,22.3 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080518
+Downstream,22.2 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080518
+Bidirection,10.1 Mbits/sec, 40,36+40(p)+44+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080518
+Upstream,20.6 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080523
+Downstream,20.9 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080523
+Bidirection,10.4 Mbits/sec, 44,36+40+44(p)+48,Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080523
+Upstream,22.0 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080527
+Downstream,21.0 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080527
+Bidirection,10.4 Mbits/sec, 48,36+40+44+48(p),Up to 1733 Mbps ,NETGEAR5G,Europe,9,5G,mixed,WPA_TKIP,201703080527

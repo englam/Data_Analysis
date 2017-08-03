@@ -1,0 +1,378 @@
+Upstream,no value, no channel,1,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071720
+Downstream,no value, no channel,1,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071720
+Bidirection,no value, no channel,1,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071720
+Upstream,no value, no channel,2,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071722
+Downstream,no value, no channel,2,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071722
+Bidirection,no value, no channel,2,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071722
+Upstream,no value, no channel,3,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071724
+Downstream,no value, no channel,3,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071724
+Bidirection,no value, no channel,3,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071724
+Upstream,no value, no channel,4,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071726
+Downstream,no value, no channel,4,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071726
+Bidirection,no value, no channel,4,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071726
+Upstream,no value, no channel,5,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071728
+Downstream,no value, no channel,5,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071728
+Bidirection,no value, no channel,5,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071728
+Upstream,no value, no channel,6,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071730
+Downstream,no value, no channel,6,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071730
+Bidirection,no value, no channel,6,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071730
+Upstream,no value, no channel,7,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071731
+Downstream,no value, no channel,7,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071731
+Bidirection,no value, no channel,7,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071731
+Upstream,no value, no channel,8,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071733
+Downstream,no value, no channel,8,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071733
+Bidirection,no value, no channel,8,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071733
+Upstream,no value, no channel,9,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071735
+Downstream,no value, no channel,9,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071735
+Bidirection,no value, no channel,9,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071735
+Upstream,no value, no channel,10,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071737
+Downstream,no value, no channel,10,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071737
+Bidirection,no value, no channel,10,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071737
+Upstream,no value, no channel,11,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071739
+Downstream,no value, no channel,11,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071739
+Bidirection,no value, no channel,11,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071739
+Upstream,no value, no channel,12,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071741
+Downstream,no value, no channel,12,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071741
+Bidirection,no value, no channel,12,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071741
+Upstream,no value, no channel,13,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071743
+Downstream,no value, no channel,13,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071743
+Bidirection,no value, no channel,13,Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071743
+Upstream,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071745
+Downstream,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071745
+Bidirection,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,wpa2aes,WPA2_AES,201725071745
+Upstream,no value, no channel,1,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071747
+Downstream,no value, no channel,1,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071747
+Bidirection,no value, no channel,1,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071747
+Upstream,no value, no channel,2,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071749
+Downstream,no value, no channel,2,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071749
+Bidirection,no value, no channel,2,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071749
+Upstream,no value, no channel,3,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071751
+Downstream,no value, no channel,3,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071751
+Bidirection,no value, no channel,3,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071751
+Upstream,no value, no channel,4,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071753
+Downstream,no value, no channel,4,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071753
+Bidirection,no value, no channel,4,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071753
+Upstream,no value, no channel,5,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071754
+Downstream,no value, no channel,5,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071754
+Bidirection,no value, no channel,5,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071754
+Upstream,no value, no channel,6,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071756
+Downstream,no value, no channel,6,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071756
+Bidirection,no value, no channel,6,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071756
+Upstream,no value, no channel,7,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071758
+Downstream,no value, no channel,7,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071758
+Bidirection,no value, no channel,7,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071758
+Upstream,no value, no channel,8,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071800
+Downstream,no value, no channel,8,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071800
+Bidirection,no value, no channel,8,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071800
+Upstream,no value, no channel,9,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071802
+Downstream,no value, no channel,9,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071802
+Bidirection,no value, no channel,9,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071802
+Upstream,no value, no channel,10,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071804
+Downstream,no value, no channel,10,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071804
+Bidirection,no value, no channel,10,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071804
+Upstream,no value, no channel,11,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071806
+Downstream,no value, no channel,11,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071806
+Bidirection,no value, no channel,11,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071806
+Upstream,no value, no channel,12,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071808
+Downstream,no value, no channel,12,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071808
+Bidirection,no value, no channel,12,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071808
+Upstream,no value, no channel,13,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071810
+Downstream,no value, no channel,13,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071810
+Bidirection,no value, no channel,13,Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071810
+Upstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071812
+Downstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071812
+Bidirection,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,wpa2aes,WPA2_AES,201725071812
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071814
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071814
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071814
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071816
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071816
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071816
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071817
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071817
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071817
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071819
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071819
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071819
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071821
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071821
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071821
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071823
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071823
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071823
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071825
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071825
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071825
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071827
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071827
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071827
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071829
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071829
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071829
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071831
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071831
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071831
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071833
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071833
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071833
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071835
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071835
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071835
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071837
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071837
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071837
+Upstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071839
+Downstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071839
+Bidirection,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,wpa2aes,WPA2_AES,201725071839
+Upstream,29.6 Mbits/sec, 1,1,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071906
+Downstream,29.4 Mbits/sec, 1,1,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071906
+Bidirection,15.0 Mbits/sec, 1,1,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071906
+Upstream,no value, no channel,2,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071908
+Downstream,no value, no channel,2,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071908
+Bidirection,no value, no channel,2,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071908
+Upstream,29.5 Mbits/sec, 3,3,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071913
+Downstream,29.5 Mbits/sec, 3,3,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071913
+Bidirection,14.9 Mbits/sec, 3,3,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071913
+Upstream,no value, no channel,4,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071915
+Downstream,no value, no channel,4,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071915
+Bidirection,no value, no channel,4,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071915
+Upstream,28.7 Mbits/sec, 5,5,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071920
+Downstream,28.0 Mbits/sec, 5,5,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071920
+Bidirection,14.9 Mbits/sec, 5,5,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071920
+Upstream,no value, no channel,6,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071922
+Downstream,no value, no channel,6,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071922
+Bidirection,no value, no channel,6,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071922
+Upstream,29.4 Mbits/sec, 7,7,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071927
+Downstream,29.4 Mbits/sec, 7,7,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071927
+Bidirection,14.9 Mbits/sec, 7,7,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071927
+Upstream,29.5 Mbits/sec, 8,8,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071931
+Downstream,29.7 Mbits/sec, 8,8,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071931
+Bidirection,14.9 Mbits/sec, 8,8,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071931
+Upstream,29.7 Mbits/sec, 9,9,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071936
+Downstream,29.6 Mbits/sec, 9,9,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071936
+Bidirection,14.8 Mbits/sec, 9,9,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071936
+Upstream,no value, no channel,10,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071938
+Downstream,no value, no channel,10,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071938
+Bidirection,no value, no channel,10,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071938
+Upstream,26.6 Mbits/sec, 11,11,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071943
+Downstream,27.4 Mbits/sec, 11,11,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071943
+Bidirection,12.4 Mbits/sec, 11,11,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071943
+Upstream,no value, no channel,12,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071945
+Downstream,no value, no channel,12,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071945
+Bidirection,no value, no channel,12,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071945
+Upstream,no value, no channel,13,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071947
+Downstream,no value, no channel,13,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071947
+Bidirection,no value, no channel,13,Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071947
+Upstream,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071949
+Downstream,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071949
+Bidirection,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,mixed,WPA_AES,201725071949
+Upstream,no value, no channel,1,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071951
+Downstream,no value, no channel,1,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071951
+Bidirection,no value, no channel,1,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071951
+Upstream,4.72 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071956
+Downstream,4.72 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071956
+Bidirection,4.28 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071956
+Upstream,no value, no channel,3,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071957
+Downstream,no value, no channel,3,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071957
+Bidirection,no value, no channel,3,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725071957
+Upstream,4.19 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072002
+Downstream,4.51 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072002
+Bidirection,3.77 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072002
+Upstream,no value, no channel,5,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072004
+Downstream,no value, no channel,5,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072004
+Bidirection,no value, no channel,5,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072004
+Upstream,4.72 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072009
+Downstream,4.61 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072009
+Bidirection,4.26 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072009
+Upstream,4.93 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072014
+Downstream,4.72 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072014
+Bidirection,4.33 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072014
+Upstream,no value, no channel,8,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072016
+Downstream,no value, no channel,8,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072016
+Bidirection,no value, no channel,8,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072016
+Upstream,4.72 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072021
+Downstream,4.72 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072021
+Bidirection,4.33 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072021
+Upstream,no value, no channel,10,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072023
+Downstream,no value, no channel,10,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072023
+Bidirection,no value, no channel,10,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072023
+Upstream,4.82 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072028
+Downstream,4.82 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072028
+Bidirection,4.30 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072028
+Upstream,no value, no channel,12,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072030
+Downstream,no value, no channel,12,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072030
+Bidirection,no value, no channel,12,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072030
+Upstream,no value, no channel,13,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072031
+Downstream,no value, no channel,13,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072031
+Bidirection,no value, no channel,13,Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072031
+Upstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072033
+Downstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072033
+Bidirection,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,mixed,WPA_AES,201725072033
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072035
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072035
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072035
+Upstream,4.82 Mbits/sec, 2,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072040
+Downstream,4.72 Mbits/sec, 2,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072040
+Bidirection,4.45 Mbits/sec, 2,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072040
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072042
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072042
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072042
+Upstream,4.72 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072047
+Downstream,4.72 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072047
+Bidirection,4.35 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072047
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072049
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072049
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072049
+Upstream,4.72 Mbits/sec, 6,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072054
+Downstream,4.72 Mbits/sec, 6,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072054
+Bidirection,4.41 Mbits/sec, 6,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072054
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072056
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072056
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072056
+Upstream,4.61 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072101
+Downstream,4.72 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072101
+Bidirection,4.41 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072101
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072103
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072103
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072103
+Upstream,4.82 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072107
+Downstream,4.72 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072107
+Bidirection,4.42 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072107
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072109
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072109
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072109
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072111
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072111
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072111
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072113
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072113
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072113
+Upstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072115
+Downstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072115
+Bidirection,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,mixed,WPA_AES,201725072115
+Upstream,29.2 Mbits/sec, 1,1,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072203
+Downstream,29.0 Mbits/sec, 1,1,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072203
+Bidirection,15.0 Mbits/sec, 1,1,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072203
+Upstream,29.2 Mbits/sec, 2,2,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072208
+Downstream,28.9 Mbits/sec, 2,2,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072208
+Bidirection,14.9 Mbits/sec, 2,2,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072208
+Upstream,28.0 Mbits/sec, 3,3,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072213
+Downstream,28.1 Mbits/sec, 3,3,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072213
+Bidirection,14.8 Mbits/sec, 3,3,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072213
+Upstream,28.7 Mbits/sec, 4,4,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072217
+Downstream,28.3 Mbits/sec, 4,4,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072217
+Bidirection,14.3 Mbits/sec, 4,4,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072217
+Upstream,29.2 Mbits/sec, 5,5,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072222
+Downstream,28.5 Mbits/sec, 5,5,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072222
+Bidirection,14.8 Mbits/sec, 5,5,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072222
+Upstream,28.7 Mbits/sec, 6,6,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072227
+Downstream,29.0 Mbits/sec, 6,6,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072227
+Bidirection,14.8 Mbits/sec, 6,6,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072227
+Upstream,28.7 Mbits/sec, 7,7,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072232
+Downstream,28.9 Mbits/sec, 7,7,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072232
+Bidirection,14.8 Mbits/sec, 7,7,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072232
+Upstream,28.7 Mbits/sec, 8,8,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072237
+Downstream,29.2 Mbits/sec, 8,8,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072237
+Bidirection,14.8 Mbits/sec, 8,8,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072237
+Upstream,28.8 Mbits/sec, 9,9,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072241
+Downstream,29.3 Mbits/sec, 9,9,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072241
+Bidirection,14.8 Mbits/sec, 9,9,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072241
+Upstream,28.9 Mbits/sec, 10,10,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072246
+Downstream,29.2 Mbits/sec, 10,10,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072246
+Bidirection,15.0 Mbits/sec, 10,10,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072246
+Upstream,27.4 Mbits/sec, 11,11,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072251
+Downstream,27.1 Mbits/sec, 11,11,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072251
+Bidirection,12.8 Mbits/sec, 11,11,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072251
+Upstream,61.9 Mbits/sec, 44,12,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072256
+Downstream,58.9 Mbits/sec, 44,12,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072256
+Bidirection,32.0 Mbits/sec, 44,12,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072256
+Upstream,no value, no channel,13,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072258
+Downstream,no value, no channel,13,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072258
+Bidirection,no value, no channel,13,Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072258
+Upstream,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072300
+Downstream,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072300
+Bidirection,no value, no channel,Auto ( 1 ),Up to 54 Mbps,2.4G,mixed,WPA_TKIP,201725072300
+Upstream,28.6 Mbits/sec, 1,1,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072304
+Downstream,28.7 Mbits/sec, 1,1,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072304
+Bidirection,14.8 Mbits/sec, 1,1,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072304
+Upstream,28.2 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072309
+Downstream,28.3 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072309
+Bidirection,14.4 Mbits/sec, 2,2,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072309
+Upstream,26.7 Mbits/sec, 3,3,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072314
+Downstream,27.1 Mbits/sec, 3,3,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072314
+Bidirection,12.2 Mbits/sec, 3,3,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072314
+Upstream,26.3 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072319
+Downstream,26.4 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072319
+Bidirection,13.0 Mbits/sec, 4,4,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072319
+Upstream,26.1 Mbits/sec, 5,5,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072324
+Downstream,26.8 Mbits/sec, 5,5,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072324
+Bidirection,13.2 Mbits/sec, 5,5,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072324
+Upstream,28.9 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072328
+Downstream,28.3 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072328
+Bidirection,14.5 Mbits/sec, 6,6,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072328
+Upstream,28.8 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072333
+Downstream,28.9 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072333
+Bidirection,14.8 Mbits/sec, 7,7,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072333
+Upstream,28.8 Mbits/sec, 8,8,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072338
+Downstream,29.0 Mbits/sec, 8,8,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072338
+Bidirection,14.6 Mbits/sec, 8,8,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072338
+Upstream,28.5 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072343
+Downstream,28.3 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072343
+Bidirection,14.8 Mbits/sec, 9,9,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072343
+Upstream,29.2 Mbits/sec, 10,10,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072348
+Downstream,29.0 Mbits/sec, 10,10,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072348
+Bidirection,14.9 Mbits/sec, 10,10,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072348
+Upstream,26.7 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072352
+Downstream,27.1 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072352
+Bidirection,12.5 Mbits/sec, 11,11,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072352
+Upstream,62.3 Mbits/sec, 44,12,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072357
+Downstream,60.3 Mbits/sec, 44,12,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072357
+Bidirection,32.2 Mbits/sec, 44,12,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072357
+Upstream,no value, no channel,13,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072359
+Downstream,no value, no channel,13,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072359
+Bidirection,no value, no channel,13,Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201725072359
+Upstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201726070001
+Downstream,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201726070001
+Bidirection,no value, no channel,Auto ( 1 ),Up to 347 Mbps,2.4G,mixed,WPA_TKIP,201726070001
+Upstream,28.9 Mbits/sec, 1,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070006
+Downstream,28.6 Mbits/sec, 1,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070006
+Bidirection,14.8 Mbits/sec, 1,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070006
+Upstream,28.6 Mbits/sec, 2,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070011
+Downstream,28.2 Mbits/sec, 2,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070011
+Bidirection,14.4 Mbits/sec, 2,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070011
+Upstream,26.2 Mbits/sec, 3,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070015
+Downstream,27.1 Mbits/sec, 3,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070015
+Bidirection,12.7 Mbits/sec, 3,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070015
+Upstream,26.7 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070020
+Downstream,26.9 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070020
+Bidirection,13.4 Mbits/sec, 4,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070020
+Upstream,27.6 Mbits/sec, 5,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070025
+Downstream,27.9 Mbits/sec, 5,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070025
+Bidirection,14.0 Mbits/sec, 5,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070025
+Upstream,27.7 Mbits/sec, 6,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070030
+Downstream,28.2 Mbits/sec, 6,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070030
+Bidirection,14.2 Mbits/sec, 6,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070030
+Upstream,29.2 Mbits/sec, 7,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070035
+Downstream,28.7 Mbits/sec, 7,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070035
+Bidirection,14.7 Mbits/sec, 7,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070035
+Upstream,28.5 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070039
+Downstream,28.6 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070039
+Bidirection,14.3 Mbits/sec, 8,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070039
+Upstream,28.1 Mbits/sec, 9,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070044
+Downstream,28.8 Mbits/sec, 9,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070044
+Bidirection,14.3 Mbits/sec, 9,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070044
+Upstream,28.7 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070049
+Downstream,28.5 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070049
+Bidirection,14.8 Mbits/sec, 10,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070049
+Upstream,27.7 Mbits/sec, 11,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070054
+Downstream,28.0 Mbits/sec, 11,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070054
+Bidirection,13.4 Mbits/sec, 11,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070054
+Upstream,62.6 Mbits/sec, 44,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070058
+Downstream,61.1 Mbits/sec, 44,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070058
+Bidirection,31.8 Mbits/sec, 44,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070058
+Upstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070100
+Downstream,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070100
+Bidirection,no value, no channel,1,Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070100
+Upstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070102
+Downstream,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070102
+Bidirection,no value, no channel,Auto ( 1 ),Up to 800 Mbps,2.4G,mixed,WPA_TKIP,201726070102
