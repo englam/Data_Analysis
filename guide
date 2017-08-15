@@ -1,0 +1,25 @@
+*ipython for pycharm
+
+需要將 jupyter套件安裝進來
+
+ex.
+
+pycharm先建立一個 virtualenv , 或是手動建立virtualenv都可以
+
+virtual_env_pycharm ----已經建立好的了，並且已經把jupyter安裝進來
+
+就可以使用jupyter run code.
+
+
+
+
+* for ubuntu
+
+example
+
+root狀態下只能用command的方式開啟jupyter
+
+python /root/.pyenv/versions/3.5.1/bin/jupyter-notebook --no-browser --ip 127.0.0.1 --port 8888 --allow-root
+
+開啟後會出現token，將url複製貼上後就可以使用了， 這個時候pycharm也可以run jupyter了
+http://127.0.0.1:8888/?token=35212980d08a39370b9d91f56cc6b0d832decd408d8a554f
