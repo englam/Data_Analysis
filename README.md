@@ -1,10 +1,20 @@
 # Data_Analysis
 
+08/29/2017:
+
+
+Upload Practice 15 in Englam's folder
+Upload Stock Practice
+
+
 08/15/2017:
+
 
 Upload Practice 1 to 14 in Englam's folder
 
+
 08/03/2017:
+
 
 #Example1
 
