@@ -1,22 +1,22 @@
 # Data_Analysis
 
-08/29/2017:
+## 08/29/2017:
 
 
 Upload Practice 15 in Englam's folder
 Upload Stock Practice
+<br><br>
 
-
-08/15/2017:
+## 08/15/2017:
 
 
 Upload Practice 1 to 14 in Englam's folder
+<br><br>
+
+## 08/03/2017:
 
 
-08/03/2017:
-
-
-#Example1
+## Example1
 
  Generate Traffic for wireless throughput
 
@@ -30,7 +30,8 @@ Upload Practice 1 to 14 in Englam's folder
  Python:
  Convert data to excel by using Read_Result.py
 
-#Example2
+<br><br>
+## Example2
 
  Generate Traffic for wireless throughput,
 
@@ -43,8 +44,8 @@ Upload Practice 1 to 14 in Englam's folder
  Test Report:
  Wireless_Report1.xlsx
 
-
-#Example3
+<br><br>
+## Example3
 
  Generate Traffic for wireless throughput, 
 
